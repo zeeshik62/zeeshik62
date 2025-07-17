@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Hamaravenue.com**
+- 🔭 I'm currently working on **Hamaravenue.com**, **followbuddy.com**
 - 🌱 I'm currently learning **advanced backend concepts with Node.js and system design**
 - 👯 I'm looking to collaborate on **Node.js backend projects, RESTful APIs, and cloud integrations**
 - 🤔 I'm looking for help with **optimizing large-scale applications and handling microservices**
